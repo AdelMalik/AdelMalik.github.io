@@ -4,3 +4,6 @@ _site/
 .sass-cache/
 vendor/
 .DS_Store
+README.md
+GUIDE.md
+MISE_EN_LIGNE.md
