@@ -1,0 +1,32 @@
+# Publications & preprints. Newest first is handled automatically (sorted by year).
+# To add a paper, copy a block below. Leave `links: []` if you have no URL yet.
+
+- title: "Observer design for Lur'e-type systems via injection of a reconstructed nonlinear output"
+  authors: "Adel Malik Annabi"
+  venue: "Preprint, arXiv:2606.24656 [math.OC]"
+  year: 2026
+  type: "Preprint"
+  links:
+    - name: "arXiv"
+      url: "https://arxiv.org/abs/2606.24656"
+
+- title: "Identification in saturated networked systems"
+  authors: "Adel Malik Annabi, Jean-Baptiste Pomet, Dario Prandi, Ludovic Sacchelli"
+  venue: "IEEE Conference on Decision and Control (CDC)"
+  year: 2025
+  type: "Publication"
+  links: []
+
+- title: "Activity estimation via distributed measurements in an orientation sensitive neural fields model of the visual cortex"
+  authors: "Adel Malik Annabi, Jean-Baptiste Pomet, Dario Prandi, Ludovic Sacchelli"
+  venue: "Mathematics of Control, Signals, and Systems (MCSS)"
+  year: 2024
+  type: "Publication"
+  links: []
+
+- title: "Homogeneous observer for a low-dimensional neural fields model of cortical activity"
+  authors: "Adel Malik Annabi, Jean-Baptiste Pomet, Dario Prandi, Ludovic Sacchelli"
+  venue: "IEEE Conference on Decision and Control (CDC)"
+  year: 2024
+  type: "Publication"
+  links: []

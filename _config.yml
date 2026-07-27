@@ -1,0 +1,49 @@
+# --- Site identity -----------------------------------------------------------
+title: Adel Malik Annabi
+tagline: PhD in Mathematics · Université Côte d'Azur
+description: >-
+  Personal academic website of Adel Malik Annabi, PhD candidate in Mathematics
+  at Université Côte d'Azur (Laboratoire J.A. Dieudonné, Inria — McTAO & GDT),
+  working on estimation, nonlinear observer design, control theory and neuroscience.
+author: Adel Malik Annabi
+lang: en
+
+# --- URLs --------------------------------------------------------------------
+# For a USER site (repo named <username>.github.io) leave baseurl empty.
+# For a PROJECT site (any repo) set baseurl to "/<repo-name>".
+url: ""
+baseurl: ""
+
+# --- Home-page photo ---------------------------------------------------------
+# Shown to the right of your name. To use your own picture, drop the file into
+# assets/img/ (e.g. profile.jpg) and change the path below to match.
+photo: "/assets/img/profile.jpg"
+
+# --- Contact & profiles ------------------------------------------------------
+# Leave a value as "" to hide that link everywhere. Fill it in later to show it.
+email: "adel.malik.annabi@proton.me"
+scholar: "https://scholar.google.com/citations?user=P_TSgfsAAAAJ&hl=fr"
+github: ""         # e.g. https://github.com/your-username
+researchgate: ""   # e.g. https://www.researchgate.net/profile/Your-Name
+
+# --- Research interests (rendered as chips on the home page) ------------------
+research_interests:
+  - Estimation
+  - Nonlinear observer design
+  - Optimization
+  - Control & stabilization
+  - Optimal control
+  - Neuroscience
+
+# --- Build -------------------------------------------------------------------
+markdown: kramdown
+permalink: pretty
+sass:
+  style: compressed
+exclude:
+  - README.md
+  - GUIDE.md
+  - MISE_EN_LIGNE.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor

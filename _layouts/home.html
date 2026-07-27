@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<header class="hero">
+  <div class="hero-text">
+    <h1 class="hero-name">Adel Malik ANNABI</h1>
+    <p class="hero-role">PhD in Mathematics</p>
+    <p class="hero-tagline">Hey, I'm Adel ANNABI ! I'm a PhD in mathematics, specialized in Control Theory and in Mathematical Neuroscience.</p>
+    <p class="hero-tagline">Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+    {% include social.html %}
+  </div>
+  {% if site.photo and site.photo != "" %}
+  <img class="hero-photo" src="{{ site.photo | relative_url }}" alt="Adel Malik Annabi" width="200" height="240">
+  {% endif %}
+</header>
+
+<section class="section" id="about" aria-labelledby="about-h">
+  <h2 id="about-h">About</h2>
+  <div class="prose">{{ content }}</div>
+</section>

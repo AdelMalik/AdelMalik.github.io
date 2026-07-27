@@ -1,0 +1,11 @@
+{%- comment -%} Renders one publication. Pass the entry as `p`. {%- endcomment -%}
+<li class="pub">
+  <h3 class="pub-title">{{ include.p.title }}</h3>
+  <p class="pub-authors">{{ include.p.authors | replace: 'Adel Malik Annabi', '<strong>Adel Malik Annabi</strong>' }}</p>
+  <p class="pub-venue">{{ include.p.venue }}{% if include.p.year %} · {{ include.p.year }}{% endif %}</p>
+  {% if include.p.links and include.p.links.size > 0 %}
+  <p class="pub-links">
+    {% for l in include.p.links %}<a href="{{ l.url }}" target="_blank" rel="noopener">{{ l.name }} ↗</a>{% unless forloop.last %}<span class="sep">·</span>{% endunless %}{% endfor %}
+  </p>
+  {% endif %}
+</li>
