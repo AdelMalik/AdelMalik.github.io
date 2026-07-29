@@ -1,5 +1,7 @@
-# Publications & preprints. Newest first is handled automatically (sorted by year).
+# Publications, preprints & thesis. Newest first is handled automatically (sorted by year).
 # To add a paper, copy a block below. Leave `links: []` if you have no URL yet.
+# `type` must be "Preprint", "Publication" or "Thesis" — anything else is not displayed.
+# `note` is optional: a short grey line under the venue (see the thesis entry).
 
 - title: "Observer design for Lur'e-type systems via injection of a reconstructed nonlinear output"
   authors: "Adel Malik Annabi"
@@ -30,3 +32,13 @@
   year: 2024
   type: "Publication"
   links: []
+
+- title: "State and parameter estimation of neural mass and mean-field models: a control-theoretic approach"
+  authors: "Adel Malik Annabi"
+  venue: "PhD thesis, Université Côte d'Azur (Laboratoire J.A. Dieudonné, Inria — McTAO & GDT)"
+  year: 2026
+  type: "Thesis"
+  note: "Version defended on 2 July 2026. The final version is still being prepared — the reviewers' comments have not yet been fully incorporated."
+  links:
+    - name: "Manuscript (PDF)"
+      url: "/assets/thesis.pdf"

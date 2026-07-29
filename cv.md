@@ -16,9 +16,9 @@ description: Curriculum vitæ of Adel Malik Annabi — education, teaching and t
       <div class="tl-body">
         <h3>PhD in Mathematics</h3>
         <p class="tl-org">Université Côte d'Azur — Laboratoire J.A. Dieudonné, with Inria</p>
-        <p>Thesis: <em>State and Parameter Estimation of Neural Mass Models: a
-        Control-Theoretic Approach.</em> Supervisors: Jean-Baptiste Pomet, Dario
-        Prandi, Ludovic Sacchelli.</p>
+        <p>Thesis: <em>State and parameter estimation of neural mass and
+        mean-field models: a control-theoretic approach.</em> Supervisors:
+        Jean-Baptiste Pomet, Dario Prandi, Ludovic Sacchelli.</p>
       </div>
     </li>
     <li>
