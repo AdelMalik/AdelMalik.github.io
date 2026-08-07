@@ -2,6 +2,35 @@
 # To add a paper, copy a block below. Leave `links: []` if you have no URL yet.
 # `type` must be "Preprint", "Publication" or "Thesis" — anything else is not displayed.
 # `note` is optional: a short grey line under the venue (see the thesis entry).
+# `chapter` is optional: a short grey line referencing the matching thesis chapter.
+
+# --- In preparation ----------------------------------------------------------
+
+- title: "Parameter estimation in nonlinear systems with saturation nonlinearities: a novel approach leveraging structural properties"
+  authors: "Adel Malik Annabi"
+  venue: "In preparation"
+  year: 2026
+  type: "In preparation"
+  chapter: "Extension of thesis Chapter 8 — Finite Dimensional Systems"
+  links:
+    - name: "Manuscript (PDF)"
+      url: "/assets/sicon-mainShow.pdf"
+
+- title: "Parameter estimation in nonlinear systems with saturation nonlinearities: the infinite-dimensional case"
+  authors: "Adel Malik Annabi"
+  venue: "In preparation"
+  year: 2026
+  type: "In preparation"
+  chapter: "Extension of thesis Chapter 9 — Infinite-dimensional system"
+  links: []
+
+- title: "Estimation of a two layer saturated dynamical networked system"
+  authors: "Adel Malik Annabi"
+  venue: "In preparation"
+  year: 2026
+  type: "In preparation"
+  chapter: "Extension of thesis Chapter 10 — Two-layer networks of finite dimensional systems"
+  links: []
 
 - title: "Observer design for Lur'e-type systems via injection of a reconstructed nonlinear output"
   authors: "Adel Malik Annabi"
