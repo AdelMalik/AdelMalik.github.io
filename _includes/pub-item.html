@@ -1,7 +1,7 @@
 {%- comment -%} Renders one publication. Pass the entry as `p`. {%- endcomment -%}
 <li class="pub">
   <h3 class="pub-title">{{ include.p.title }}</h3>
-  <p class="pub-authors">{{ include.p.authors | replace: 'Adel Malik Annabi', '<strong>Adel Malik Annabi</strong>' }}</p>
+  <p class="pub-authors">{% if include.p.authors == 'Adel Malik Annabi' %}<strong>Adel Malik Annabi</strong>{% else %}{{ include.p.authors }}{% endif %}</p>
   <p class="pub-venue">{{ include.p.venue }}{% if include.p.year %} · {{ include.p.year }}{% endif %}</p>
   {% if include.p.note %}<p class="pub-note">{{ include.p.note }}</p>{% endif %}
   {% if include.p.chapter %}<p class="pub-chapter">{{ include.p.chapter }}</p>{% endif %}
