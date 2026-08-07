@@ -2,9 +2,9 @@
 title: Adel Malik Annabi
 tagline: PhD in Mathematics · Université Côte d'Azur
 description: >-
-  Personal academic website of Adel Malik Annabi, PhD candidate in Mathematics
+  Personal academic website of Adel Malik Annabi, PhD in Mathematics
   at Université Côte d'Azur (Laboratoire J.A. Dieudonné, Inria — McTAO & GDT),
-  working on estimation, nonlinear observer design, control theory and neuroscience.
+  working on estimation, nonlinear observer design, control theory and its applications.
 author: Adel Malik Annabi
 lang: en
 
@@ -23,7 +23,7 @@ photo: "/assets/img/profile.jpg"
 # Leave a value as "" to hide that link everywhere. Fill it in later to show it.
 email: "adel.malik.annabi@proton.me"
 scholar: "https://scholar.google.com/citations?user=P_TSgfsAAAAJ&hl=fr"
-github: ""         # e.g. https://github.com/your-username
+github: "https://github.com/AdelMalik"   # e.g. https://github.com/your-username
 researchgate: ""   # e.g. https://www.researchgate.net/profile/Your-Name
 
 # --- Research interests (rendered as chips on the home page) ------------------
@@ -33,7 +33,7 @@ research_interests:
   - Optimization
   - Control & stabilization
   - Optimal control
-  - Neuroscience
+  - Control theory and its applications
 
 # --- Build -------------------------------------------------------------------
 markdown: kramdown
