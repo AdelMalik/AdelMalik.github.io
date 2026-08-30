@@ -24,13 +24,15 @@
   chapter: "Extension of thesis Chapter 9 — Infinite-dimensional system"
   links: []
 
-- title: "Estimation of a two layer saturated dynamical networked system"
+- title: "State and parameter estimation of triangular layered networks with saturated interconnections"
   authors: "Adel Malik Annabi"
   venue: "In preparation"
   year: 2026
   type: "In preparation"
   chapter: "Extension of thesis Chapter 10 — Two-layer networks of finite dimensional systems"
-  links: []
+  links:
+    - name: "Draft (PDF)"
+      url: "/assets/state-and-parameter-estimation-of-triangular-layered-networks-with-saturated-interconnections.pdf"
 
 - title: "Observer design for Lur'e-type systems via injection of a reconstructed nonlinear output"
   authors: "Adel Malik Annabi"
