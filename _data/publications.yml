@@ -8,12 +8,12 @@
 
 - title: "Parameter Estimation in Nonlinear Systems with Saturated Output"
   authors: "Adel Malik Annabi, Jean-Baptiste Pomet, Dario Prandi, Ludovic Sacchelli"
-  venue: "In preparation"
+  venue: "Preprint"
   year: 2026
-  type: "In preparation"
+  type: "Preprint"
   chapter: "Extension of thesis Chapter 8 — Finite Dimensional Systems"
   links:
-    - name: "Draft (PDF)"
+    - name: "Preprint (PDF)"
       url: "/assets/sicon-mainShow.pdf"
 
 - title: "Parameter estimation in nonlinear systems with saturation nonlinearities: the infinite-dimensional case"
@@ -26,12 +26,12 @@
 
 - title: "State and parameter estimation of triangular layered networks with saturated interconnections"
   authors: "Adel Malik Annabi, Jean-Baptiste Pomet, Dario Prandi, Ludovic Sacchelli"
-  venue: "In preparation"
+  venue: "Preprint"
   year: 2026
-  type: "In preparation"
+  type: "Preprint"
   chapter: "Extension of thesis Chapter 10 — Two-layer networks of finite dimensional systems"
   links:
-    - name: "Draft (PDF)"
+    - name: "Preprint (PDF)"
       url: "/assets/state-and-parameter-estimation-of-triangular-layered-networks-with-saturated-interconnections.pdf"
 
 - title: "Observer design for Lur'e-type systems via injection of a reconstructed nonlinear output"
