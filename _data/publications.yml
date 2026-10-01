@@ -6,6 +6,13 @@
 
 # --- In preparation ----------------------------------------------------------
 
+- title: "Estimation of a hidden memoryful current in neural fields"
+  authors: "Adel Malik Annabi"
+  venue: "In preparation"
+  year: 2026
+  type: "In preparation"
+  links: []
+
 - title: "Parameter Estimation in Nonlinear Systems with Saturated Output"
   authors: "Adel Malik Annabi, Jean-Baptiste Pomet, Dario Prandi, Ludovic Sacchelli"
   venue: "In preparation"
@@ -65,7 +72,7 @@
   venue: "PhD thesis, Université Côte d'Azur (Laboratoire J.A. Dieudonné, Inria — McTAO & GDT)"
   year: 2026
   type: "Thesis"
-  note: "Version defended on 2 July 2026. The final version is still being prepared — the reviewers' comments have not yet been fully incorporated."
+  note: "Version defended on 2 July 2026."
   links:
     - name: "Manuscript (PDF)"
       url: "/assets/thesis.pdf"
