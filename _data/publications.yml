@@ -46,7 +46,7 @@
     - name: "arXiv"
       url: "https://arxiv.org/abs/2606.24656"
 
-- title: "Identification in saturated networked systems"
+- title: "Identification of saturated networked systems"
   authors: "Adel Malik Annabi, Jean-Baptiste Pomet, Dario Prandi, Ludovic Sacchelli"
   venue: "IEEE Conference on Decision and Control (CDC)"
   year: 2025
@@ -56,7 +56,7 @@
 - title: "Activity estimation via distributed measurements in an orientation sensitive neural fields model of the visual cortex"
   authors: "Adel Malik Annabi, Jean-Baptiste Pomet, Dario Prandi, Ludovic Sacchelli"
   venue: "Mathematics of Control, Signals, and Systems (MCSS)"
-  year: 2024
+  year: 2025
   type: "Publication"
   links: []
 
