@@ -16,7 +16,7 @@ description: Curriculum vitæ of Adel Malik Annabi — education, conferences, s
       <div class="tl-body">
         <h3>PhD in Mathematics</h3>
         <p class="tl-org">Inria (Team McTAO) — Université Côte d'Azur, Laboratoire J.A. Dieudonné (LJAD)</p>
-        <p>Thesis (defended 2 July 2026): <a href="{{ '/assets/thesis.pdf' | relative_url }}"><em>State and parameter estimation of neural mass and mean-field models: a control-theoretic approach</em></a>. Supervisors: Jean-Baptiste Pomet, Dario Prandi, Ludovic Sacchelli.</p>
+        <p>Thesis (defended 2 July 2026): <a href="{{ '/assets/thesis.pdf' | relative_url }}"><em>State and parameter estimation of neural mass and mean-field models: a control-theoretic approach</em></a>. Supervisors: <a href="http://www-sop.inria.fr/members/Jean-Baptiste.Pomet/" target="_blank" rel="noopener">Jean-Baptiste Pomet</a>, <a href="https://dprn.github.io/" target="_blank" rel="noopener">Dario Prandi</a>, <a href="https://sacchelli.github.io/" target="_blank" rel="noopener">Ludovic Sacchelli</a>.</p>
       </div>
     </li>
     <li>
@@ -24,7 +24,7 @@ description: Curriculum vitæ of Adel Malik Annabi — education, conferences, s
       <div class="tl-body">
         <h3>Master of Mathematics & Applications — Mathematics of Modeling</h3>
         <p class="tl-org">Sorbonne University, with École Polytechnique and École Nationale des Ponts et Chaussées</p>
-        <p>Research internship at L2S — CentraleSupélec, Paris-Saclay University: <em>Identification of illusory state in the visual cortex</em>. Supervisors: Dario Prandi, Jean-Baptiste Pomet, Ludovic Sacchelli.</p>
+        <p>Research internship at L2S — CentraleSupélec, Paris-Saclay University: <em>Identification of illusory state in the visual cortex</em>. Supervisors: <a href="https://dprn.github.io/" target="_blank" rel="noopener">Dario Prandi</a>, <a href="http://www-sop.inria.fr/members/Jean-Baptiste.Pomet/" target="_blank" rel="noopener">Jean-Baptiste Pomet</a>, <a href="https://sacchelli.github.io/" target="_blank" rel="noopener">Ludovic Sacchelli</a>.</p>
       </div>
     </li>
     <li>
@@ -113,23 +113,3 @@ description: Curriculum vitæ of Adel Malik Annabi — education, conferences, s
   </dl>
 </section>
 
-<section class="cv-section" aria-labelledby="ref-h">
-  <h2 id="ref-h">References</h2>
-  <ul class="pub-list">
-    <li class="pub">
-      <h3 class="pub-title">Jean-Baptiste Pomet</h3>
-      <p class="pub-venue">Senior researcher (McTAO team leader), Inria</p>
-      <p class="pub-links"><a href="mailto:jean-baptiste.pomet@inria.fr">jean-baptiste.pomet@inria.fr</a> · <a href="http://www-sop.inria.fr/members/Jean-Baptiste.Pomet/" target="_blank" rel="noopener">Inria page ↗</a></p>
-    </li>
-    <li class="pub">
-      <h3 class="pub-title">Dario Prandi</h3>
-      <p class="pub-venue">CNRS researcher, CentraleSupélec (L2S), Université Paris-Saclay</p>
-      <p class="pub-links"><a href="mailto:dario.prandi@centralesupelec.fr">dario.prandi@centralesupelec.fr</a> · <a href="https://dprn.github.io/" target="_blank" rel="noopener">homepage ↗</a></p>
-    </li>
-    <li class="pub">
-      <h3 class="pub-title">Ludovic Sacchelli</h3>
-      <p class="pub-venue">Inria researcher (McTAO)</p>
-      <p class="pub-links"><a href="mailto:ludovic.sacchelli@inria.fr">ludovic.sacchelli@inria.fr</a> · <a href="https://sacchelli.github.io/" target="_blank" rel="noopener">homepage ↗</a></p>
-    </li>
-  </ul>
-</section>
