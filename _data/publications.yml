@@ -13,14 +13,6 @@
   type: "In preparation"
   links: []
 
-- title: "Parameter Estimation in Nonlinear Systems with Saturated Output"
-  authors: "Adel Malik Annabi, Jean-Baptiste Pomet, Dario Prandi, Ludovic Sacchelli"
-  venue: "In preparation"
-  year: 2026
-  type: "In preparation"
-  chapter: "Extension of thesis Chapter 8 — Finite Dimensional Systems"
-  links: []
-
 - title: "Saturation Excitation in Infinite Dimensions with Application to Neural Field Kernel Identification"
   authors: "Adel Malik Annabi, Jean-Baptiste Pomet, Dario Prandi, Ludovic Sacchelli"
   venue: "In preparation"
@@ -36,6 +28,18 @@
   type: "In preparation"
   chapter: "Extension of thesis Chapter 10 — Two-layer networks of finite dimensional systems"
   links: []
+
+# --- Preprints ---------------------------------------------------------------
+
+- title: "Controlled Excitation for Identification of Nonlinear Systems with Saturated Outputs"
+  authors: "Adel Malik Annabi, Jean-Baptiste Pomet, Dario Prandi, Ludovic Sacchelli"
+  venue: "Preprint, HAL:hal-05854609"
+  year: 2026
+  type: "Preprint"
+  chapter: "Extension of thesis Chapter 8 — Finite Dimensional Systems"
+  links:
+    - name: "HAL"
+      url: "https://hal.science/hal-05854609v1"
 
 - title: "Observer design for Lur'e-type systems via injection of a reconstructed nonlinear output"
   authors: "Adel Malik Annabi"
