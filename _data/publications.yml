@@ -33,9 +33,10 @@
 
 - title: "Active Identification of a Two-Population Neural Mass Network via Saturation Excitation"
   authors: "Adel Malik Annabi, Jean-Baptiste Pomet, Dario Prandi, Ludovic Sacchelli"
-  venue: "Preprint, submitted to the European Control Conference (ECC 2027)"
+  venue: "Preprint"
   year: 2026
   type: "Preprint"
+  note: "Submitted to the European Control Conference (ECC 2027)."
   links: []
 
 - title: "Controlled Excitation for Identification of Nonlinear Systems with Saturated Outputs"
