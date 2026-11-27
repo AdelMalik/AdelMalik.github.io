@@ -1,4 +1,5 @@
-# Publications, preprints & thesis. Newest first is handled automatically (sorted by year).
+# Publications, preprints & thesis. Entries are displayed in the order below;
+# keep the newest first within each section.
 # To add a paper, copy a block below. Leave `links: []` if you have no URL yet.
 # `type` must be "In preparation", "Preprint", "Publication" or "Thesis" — anything else is not displayed.
 # `note` is optional: a short grey line under the venue (see the thesis entry).
